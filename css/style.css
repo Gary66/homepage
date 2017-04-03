@@ -14,10 +14,12 @@ body {
 
 #site-header {
 	height: 250px;
+	width: 100%;
+	display: inline-flex;
 }
 
 .header-info {
-	float: left;
+	/*float: left;*/
 	width: 33%;
 	height: 250px;
 	margin: 0 auto;
