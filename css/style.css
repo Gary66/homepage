@@ -28,6 +28,27 @@ body {
 	text-align: center;
 }
 
+@media only screen and (max-width: 768px) {
+	#header-school {
+		display: none;
+	}
+	#header-authorinfo {
+		width: 80%;
+		height: auto;
+	}
+	img {
+		max-width: 80px;
+	}
+	#site-header {
+		height: auto;
+	}
+	.header-info {
+		font-size: 10px;
+		line-height: 10px;
+		height: auto;
+	}
+}
+
 .info-middle {
 	margin-left: 5px;
 	margin-right: 5px;
