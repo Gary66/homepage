@@ -172,4 +172,13 @@ ul {
 	.pimg {
 		float: none;
 	}
+	.pvenue {
+		display: inline;
+	}
+	.plinks {
+		display: inline-block;
+	}
+	h5 {
+		margin: 10px 0;
+	}
 }
