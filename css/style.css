@@ -103,12 +103,14 @@ h4 {
 .paper {
     border-bottom: solid 1px #EEE;
     margin-bottom: 5px;
-    color: #555;
+    color: #555;    
+    padding-bottom: 5px;
 }
 
 .pimg {
     float: left;
     width: 220px;
+    text-align: center;
 }
 
 .pimg img {
@@ -171,6 +173,7 @@ ul {
 	}
 	.pimg {
 		float: none;
+		text-align: left;
 	}
 	.pvenue {
 		display: inline;
