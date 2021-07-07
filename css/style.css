@@ -63,7 +63,7 @@ body {
 }
 
 .span6 {
-    width: 460px;
+    width: 48%;
 }
 
 [class*="span"] {
